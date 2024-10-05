@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="T-ofzDHKvPzhHvoBhTUB">
-    <mxGraphModel dx="1972" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1972" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,11 +11,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="910" y="160" />
+              <mxPoint x="690" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(213, 219, 219); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap; background-color: rgb(42, 46, 51);&quot;&gt;Singapore VPC&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(213, 219, 219); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap; background-color: rgb(42, 46, 51);&quot;&gt;172.16.0.0/16&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-1" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Singapore VPC&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.0.0/16&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-2" target="pupxq40IHyZ5BC3JxZAa-5">
@@ -24,76 +24,71 @@
         <mxCell id="pupxq40IHyZ5BC3JxZAa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-2" target="pupxq40IHyZ5BC3JxZAa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-2" target="pupxq40IHyZ5BC3JxZAa-25">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="270" as="sourcePoint" />
+            <mxPoint x="340" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-2" value="AP Southeast-1b" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-5" target="pupxq40IHyZ5BC3JxZAa-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="330" as="targetPoint" />
-            <mxPoint x="910" y="300" as="sourcePoint" />
+            <mxPoint x="780" y="330" as="targetPoint" />
+            <mxPoint x="690" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1080" y="300" />
+              <mxPoint x="780" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-5" value="AP Southeast-1c" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-7" target="pupxq40IHyZ5BC3JxZAa-9">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-7" target="pupxq40IHyZ5BC3JxZAa-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-180" y="300" />
-              <mxPoint x="-180" y="300" />
+              <mxPoint y="300" />
+              <mxPoint x="-80" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-7" value="AP Southeast-1a" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-11" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.1.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Public&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pupxq40IHyZ5BC3JxZAa-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="160" as="sourcePoint" />
             <mxPoint x="-10" y="50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-180" y="160" />
+              <mxPoint y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-23" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.11.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Private&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-27" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.2.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Public&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-35" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-29" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.12.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Private&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pupxq40IHyZ5BC3JxZAa-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="300" as="sourcePoint" />
             <mxPoint x="350" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="300" />
+              <mxPoint x="430" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,27 +97,33 @@
             <mxPoint x="110" y="270" as="sourcePoint" />
             <mxPoint x="340" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="300" />
+              <mxPoint x="250" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pupxq40IHyZ5BC3JxZAa-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-360" y="330" as="sourcePoint" />
-            <mxPoint x="-180" y="300" as="targetPoint" />
+            <mxPoint y="300" as="sourcePoint" />
+            <mxPoint y="329" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-360" y="300" />
+              <mxPoint x="80" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="300" as="sourcePoint" />
-            <mxPoint x="-20" y="330" as="targetPoint" />
+            <mxPoint x="580" y="330" as="sourcePoint" />
+            <mxPoint x="690" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-20" y="300" />
+              <mxPoint x="600" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-46" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.3.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Public&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-48" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.13.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Private&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
