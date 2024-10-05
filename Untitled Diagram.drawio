@@ -15,8 +15,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-1" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Singapore VPC&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.0.0/16&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-1" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Regiion: Singapore VPC&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.0.0/16&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="40" width="182" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-2" target="pupxq40IHyZ5BC3JxZAa-5">
           <mxGeometry relative="1" as="geometry" />
@@ -30,7 +30,7 @@
             <mxPoint x="340" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-2" value="AP Southeast-1b" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-2" value="&lt;div&gt;Availability Zone&lt;br&gt;&lt;/div&gt;AP Southeast-1b" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-5">
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-5" value="AP Southeast-1c" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-5" value="&lt;div&gt;Availability Zone&lt;br&gt;&lt;/div&gt;AP Southeast-1c" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pupxq40IHyZ5BC3JxZAa-7" target="pupxq40IHyZ5BC3JxZAa-11">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pupxq40IHyZ5BC3JxZAa-7" value="AP Southeast-1a" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pupxq40IHyZ5BC3JxZAa-7" value="&lt;div&gt;Availability Zone&lt;/div&gt;AP Southeast-1a" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pupxq40IHyZ5BC3JxZAa-11" value="&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;172.16.1.0/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; text-wrap: nowrap;&quot;&gt;Public&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
